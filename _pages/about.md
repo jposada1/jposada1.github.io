@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student <a href='https://umbc.edu'>UMBC</a>. Human-Centered Computing.
 
 profile:
   align: right
