@@ -77,3 +77,26 @@
     margin: 0 auto;
   }
 }
+/* About page bio photo */
+
+.bio-photo {
+  float: left !important;
+  width: 220px !important;
+  height: auto;
+  margin: 0 2rem 1rem 0 !important;
+  border-radius: 4px;
+}
+
+/* Keep news below the bio/photo area */
+h2 {
+  clear: both;
+}
+
+@media (max-width: 576px) {
+  .bio-photo {
+    float: none !important;
+    display: block;
+    width: 180px !important;
+    margin: 0 auto 1.5rem auto !important;
+  }
+}
