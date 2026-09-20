@@ -31,38 +31,44 @@
 @use "tabs";
 @use "teachings";
 @use "typograms";
-/* CHANGE HERE — profile image + wrapped bio text */
-
-.profile.float-right {
-  float: right;
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-}
+/* ABOUT PAGE — make text wrap around profile image */
 
 .profile.float-left {
-  float: left;
-  margin-right: 2rem;
-  margin-bottom: 1rem;
+  float: left !important;
+  margin-right: 2rem !important;
+  margin-bottom: 1rem !important;
 }
 
-.profile img {
-  width: 220px;
-  height: auto;
+.profile.float-right {
+  float: right !important;
+  margin-left: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Stop the theme from immediately clearing the profile float */
+.post .clearfix {
+  display: block !important;
 }
 
 .post .clearfix::after {
-  content: "";
-  display: table;
-  clear: both;
+  content: none !important;
+  display: none !important;
+  clear: none !important;
+}
+
+/* Profile image size */
+.profile img {
+  width: 220px;
+  height: auto;
 }
 
 /* Mobile */
 @media (max-width: 576px) {
   .profile.float-left,
   .profile.float-right {
-    float: none;
+    float: none !important;
+    margin: 0 auto 1.5rem auto !important;
     width: 100%;
-    margin: 0 0 1.5rem 0;
   }
 
   .profile img {
