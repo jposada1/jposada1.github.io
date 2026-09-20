@@ -712,7 +712,4 @@ jsonresume:
   - interests
   - references
 
-exclude:
-  - .agents
-  - .codex
-  - vendor
+
