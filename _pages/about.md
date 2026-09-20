@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student <a href='https://umbc.edu'>UMBC</a>. Human-Centered Computing.
+subtitle: PhD Student <a href='https://umbc.edu/academics/programs/graduate/information-systems/human-centered-computing-phd/#contact-us'>UMBC</a>. Human-Centered Computing.
 
 
 
