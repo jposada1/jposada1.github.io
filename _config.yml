@@ -711,3 +711,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+exclude:
+  - .agents
+  - .codex
+  - vendor
