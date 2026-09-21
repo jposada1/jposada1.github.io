@@ -6,8 +6,8 @@ subtitle: PhD Student <a href='https://umbc.edu/academics/programs/graduate/info
 
 
 
-#selected_papers: true # includes a list of papers marked as "selected={true}"
-#social: true # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 #announcements:
   #enabled: true # includes a list of news items
@@ -25,7 +25,7 @@ I design AI feedback systems for engaging with data. My work focuses on where AI
 I've also done research on AI support for [coaching data storytelling](https://dl.acm.org/doi/10.1145/3772318.3793706), [informal STEM education](https://dl.acm.org/doi/10.1145/3544548.3581567), accessible [self-tracking technology design](https://drive.google.com/file/d/1qpG_S5FtgJv1dkzLEUrVTeZcqwa6MRTQ/view?usp=sharing), and co-designing [3D-printed tactile maps](https://dl.acm.org/doi/10.1145/3663548.3688537) with blind and low vision students.
 
 Keywords: 
-Data storytelling, AI Feedback Systems, Personal Data, Mixed-methods, Accessibility 
+AI Feedback Systems, Data storytelling, Personal Data, Wearables, Mixed-methods, Accessibility 
 
 Contact: jposada1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/jenposada/)
 <div style="clear: both;"></div>
