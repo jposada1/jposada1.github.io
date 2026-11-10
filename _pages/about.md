@@ -27,6 +27,6 @@ I've also done research on AI support for [coaching data storytelling](https://d
 Keywords: 
 AI Feedback Systems, Data storytelling, Personal Data, Wearables, Mixed-methods, Accessibility 
 
-Contact: jposada1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/jenposada/)
+Contact: jposada1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/jenposada/)|
 [ View My New Portfolio](https://jennifer-posada-portfolio-draft.sacredprimrose1.chatgpt.site/)
 <div style="clear: both;"></div>
