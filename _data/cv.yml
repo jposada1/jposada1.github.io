@@ -185,7 +185,7 @@ cv:
           - Co-design Workshops
           - Surveys
           - Human-AI Interaction
-        start_date: 2023-09
+        start_date: 2024-09
         end_date: Present
       - name: Story Studio — AI Feedback for Data Storytelling
         summary: Research and design of stage-aware AI feedback for students constructing data stories.
@@ -201,6 +201,8 @@ cv:
           - Personal Informatics
           - Accessibility
           - Interaction Design
+        start_date: 2024-09
+        end_date: Present
       - name: 3D-Printed Tactile Campus Map
         summary: Co-designed tactile campus navigation concepts with blind and low-vision university students.
         highlights:
