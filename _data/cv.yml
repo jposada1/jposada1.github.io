@@ -43,7 +43,7 @@ cv:
     - company: TEEM NSF Project
       position: UX Researcher
       location: UMBC, Baltimore, MD
-      start_date: 2025-09
+      start_date: 2024-09
       end_date: Present
       summary: 'Research on agentic data analytics and AI support for analytical work processes (NSF #2339674).'
       highlights:
@@ -85,7 +85,6 @@ cv:
       - Designed and launched a website, online billing system, and CRM to replace paper-based workflows.
       - Improved operational efficiency by approximately 30%.
       - Conducted competitive analysis and synthesized customer feedback to guide service design decisions.
-    Volunteer:
     - company: UMBC DARE Lab / Digital Harbor Foundation — Rec-to-Tech
       position: UX Researcher
       location: Baltimore, MD
@@ -97,6 +96,7 @@ cv:
       - Conducted interviews, focus groups, and observations with underserved youth and educators.
       - Analyzed quantitative measures of self-efficacy, creativity, and attitudes toward STEM.
       - Co-authored findings published at ACM CHI 2023.
+    Volunteer:
     - company: UMBC Student Disability Services
       position: UX Researcher
       location: Baltimore, MD
