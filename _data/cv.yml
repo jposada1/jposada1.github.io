@@ -179,6 +179,14 @@ cv:
     - name: Spanish
       summary: Fluent
     Projects:
+      - name: TEEM - AI Feedback for Personal Informatics
+      summary: Research and design of AI feedback for students using personal data in data science course project.
+      highlights:
+      - Co-design Workshops
+      - Surveys
+      - Human-AI Interaction
+      start_date: 2023-09
+      end_date: 2026-08
     - name: Story Studio — AI Feedback for Data Storytelling
       summary: Research and design of stage-aware AI feedback for students constructing data stories.
       highlights:
@@ -186,7 +194,7 @@ cv:
       - Cognitive Task Analysis
       - Human-AI Interaction
       start_date: 2023-09
-      end_date: Present
+      end_date: 2026-08
     - name: Reflection at Your Fingertips
       summary: Exploration of low-effort chronic-condition self-tracking using physical buttons and Apple Shortcuts.
       highlights:
