@@ -186,7 +186,7 @@ cv:
       - Surveys
       - Human-AI Interaction
       start_date: 2023-09
-      end_date: 2026-08
+      end_date: Present
     - name: Story Studio — AI Feedback for Data Storytelling
       summary: Research and design of stage-aware AI feedback for students constructing data stories.
       highlights:
